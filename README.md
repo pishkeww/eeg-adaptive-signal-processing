@@ -6,7 +6,7 @@ The project implements advanced mode decomposition and entropy-based measures to
 
 ---
 
-## 🛠 Core Methodology
+##  Core Methodology
 
 The processing pipeline is built on three pillars of advanced signal analysis:
 
